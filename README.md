@@ -1,4 +1,4 @@
-# DSC680-T301 Applied Data Science
+# Data Science Projects
 
 ## Project Summaries
 
