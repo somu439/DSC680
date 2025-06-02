@@ -1,18 +1,4 @@
-# Project X: 
+# Project 6: 
 
-## Overview
-
-## Objectives
-
-
-## Dataset
-
-
-## Key Steps
-
-
-## Problem Type
-
-
-## Expected Outcome
+This project aims to analyze Credit Card Fraud patterns and their relationship to the consumer complaints and healthcare provider payments, providing insights into potential financial misconduct across different sectors.
 ```
