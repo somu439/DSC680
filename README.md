@@ -1,8 +1,8 @@
 # Data Science Projects
 
-## Project Summaries
+## Project List
 
-| Project Number | Description |
+| Project Number | Project Summary |
 |----------------|-------------|
 | Project 1 | Predicts house sale prices using Kaggle data, applying advanced regression models and ensemble techniques to deliver accurate price predictions and insights into influential real estate features. |
 | Project 2 | Analyzes a comprehensive housing dataset to preprocess data, engineer features, and use machine learning regression for accurate sale price prediction and identification of key price factors. |
