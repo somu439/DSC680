@@ -1,19 +1,16 @@
 # DSC680-T301 Applied Data Science
 
-## Project 1: Predict house sale prices
-- **Description**: This project uses Kaggle's house price dataset to predict sale prices with advanced regression models. It incorporates ensemble learning and hyperparameter optimization across models like Lasso, Ridge, SVR, LightGBM, and XGBoost. The dataset includes 79 features, enabling detailed analysis for real estate pricing predictions.
-- **Dataset**: Predict house sale prices using 79 explanatory variables.
-- **Problem Type**: Regression
-- **Rows/Features**: 1,460 rows, 79 features
+## Project Summaries
 
-## Project 2: Wine Quality Prediction
-- **Description** Using Kaggle’s Wine Quality dataset, this project predicts wine quality based on physicochemical properties like acidity, pH, and alcohol content. Classification models like Decision Trees and Random Forests identify high-quality wines (score ≥7). Data preprocessing, visualization, and feature selection are key steps in this analysis.
-- **Dataset**: Predict wine quality based on physicochemical tests.
-- **Problem Type**: Classification  
-- **Rows/Features**: 284,807 rows, 30 features
-
-## Project 3: Credit Card Fraud Detection
-- **Description**: This project analyzes a highly imbalanced dataset of European credit card transactions to detect fraud. It applies machine learning algorithms on PCA-transformed features. Key metrics like Area Under the Precision-Recall Curve (AUPRC) are used to evaluate performance due to the class imbalance
-- **Dataset**: Predict wine quality based on physicochemical tests.
-- **Problem Type**: Regression
-- **Rows/Features**: 4,898 rows, 12 features
+| Project Number | Description |
+|----------------|-------------|
+| Project 1 | Predicts house sale prices using Kaggle data, applying advanced regression models and ensemble techniques to deliver accurate price predictions and insights into influential real estate features. |
+| Project 2 | Analyzes a comprehensive housing dataset to preprocess data, engineer features, and use machine learning regression for accurate sale price prediction and identification of key price factors. |
+| Project 3 | Develops a data-driven approach to predict wine quality based on physicochemical properties, enabling systematic quality control and reducing reliance on subjective human evaluation. |
+| Project 4 | Uses a wholesale customer dataset to understand purchasing behavior, segment customers, and predict sales channels based on purchase history. |
+| Project 5 | Addresses the rise of credit card fraud by developing accurate fraud detection systems to mitigate financial losses and reduce risks for consumers and businesses. |
+| Project 6 | Analyzes credit card fraud patterns and their relationship to consumer complaints and healthcare provider payments, providing insights into potential financial misconduct across sectors. |
+| Project 7 | Analyzes White House visitor logs (Aug–Dec 2023), identifying trends in visitor numbers, access types, and room usage to inform resource allocation, security, and transparency through data visualizations. |
+| Project 8 | Provides a comprehensive, data-driven analysis of Kia and Hyundai vehicle thefts across U.S. cities (2019–2022), quantifying trends, identifying hotspots, and informing policy and prevention strategies. |
+| Project 9 | Provides actionable insights into Netflix viewing trends by analyzing content categories and regional preferences, guiding strategic decisions for content investment, marketing, and regional targeting. |
+| Project 10 | Analyzes and communicates U.S. childcare costs, highlighting regional disparities, trends, and affordability to empower families and support policymakers with data-driven insights and visual storytelling. |
